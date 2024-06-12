@@ -1,0 +1,1 @@
+CUR_public.nb is a Mathematica notebook containing all code and data needed to reproduce plots in the paper by Prech et al., Optimal time estimation and the clock uncertainty relation for stochastic processes
